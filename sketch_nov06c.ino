@@ -1,6 +1,5 @@
 /*
- * Sketch for testing sleep mode with wake up on WDT.
- * Donal Morrissey - 2011.
+ * Sketch for watering my plants.
  *
  */
 #include <avr/sleep.h>
